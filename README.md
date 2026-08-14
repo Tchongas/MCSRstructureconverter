@@ -1,4 +1,4 @@
-# Terrain Converter
+# structure Converter
 
 turns a WorldEdit `.schem` file into a single string of Minecraft commands for mcsrranked
 
